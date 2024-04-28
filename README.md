@@ -1,7 +1,4 @@
 # Amazon Clone
-
-![Project Image](https://example.com/image.png)
-
 > A clone of the popular e-commerce platform Amazon, built using HTML and CSS.
 ---
 
